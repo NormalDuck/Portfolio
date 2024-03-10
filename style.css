@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Lobster";
+  src: url(Lobster.ttf) format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Lobster";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+  font-size: 70px;
+  text-align-last: center;
+}
+
+p {
+  font-family: monospace;
+  text-indent: 40px;
+  font-size: 20px;
+}
+
+li {
+  font-family: monospace;
+  font-size: 20px;
+}
